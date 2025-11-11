@@ -1,0 +1,28 @@
+.head {
+  background-color: gray;
+  display: flex;
+  height: 150px;
+  justify-content: flex-start;
+}
+
+.o1 {
+  background-color: red;
+  height: 50px;
+  align-self: flex-start;
+  border: 1px solid black;
+}
+
+.o2 {
+  background-color: yellow;
+  height: 50px;
+}
+
+.o3 {
+  background-color: blueviolet;
+  height: 50px;
+}
+
+.o4 {
+  background-color: green;
+  height: 50px;
+}
