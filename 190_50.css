@@ -1,5 +1,5 @@
 .head {
-  background-color: red;
+  background-color: blue;
   display: flex;
   height: 150px;
   justify-content: flex-start;
@@ -9,7 +9,7 @@
   background-color: red;
   height: 50px;
   align-self: flex-start;
-  border: 1px solid red;
+  border: 1px solid blue;
 }
 
 .o2 {
